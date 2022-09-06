@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucacampana-99
+- 👀 I’m interested in every kind of Data Science and Data Engineering topic
+- 🌱 I’m currently learning advanced Data Science techniques @ Politecnico di Torino, EY Business & Technology Solutions
+- 💞️ I’m looking to collaborate on KDD tasks and projects
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/campana-luca/
